@@ -1,0 +1,1 @@
+The input data for Human faces as an input for DCGAN is available on kaggle.com. Any kind of dataset works for this project given it should be as large as possible to get better results from the GAN. 
